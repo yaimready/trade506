@@ -1,8 +1,14 @@
 README
 
+--- 使用方法
+
+1、服务端程序启动命令 " python app.py "
+2、测试程序存储在 tool/make_deal.py ， 使用随机测试
+
+--- 服务端相关
+
 1、URL请求路由配置在 demo/urls.py
 2、程序主要逻辑在 demo/views.py 和 demo/factory.py
 3、撮合交易日志在 logs/trade.log
 4、订单日志在 logs/order.log
 5、程序使用SQLite3存储交易信息，默认交易标的是 YYH ，请在 demo/factory.py 的73行附近修改
-6、测试程序存储在 tool/make_deal.py ， 使用随机测试
