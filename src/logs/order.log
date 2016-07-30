@@ -1,0 +1,816 @@
+2016-07-30 22:25:05 somebody partly buy [YYH] with [100.00] price , amount is 32
+2016-07-30 22:25:05 somebody partly cancel buy [YYH] with [100.00] price , amount is 19
+2016-07-30 22:25:14 somebody totally sell [YYH] with [100.00] price , amount is 27
+2016-07-30 22:25:15 somebody partly sell [YYH] with [100.00] price , amount is 39
+2016-07-30 22:25:15 somebody partly cancel sell [YYH] with [100.00] price , amount is 20
+2016-07-30 22:25:16 somebody totally sell [YYH] with [100.00] price , amount is 34
+2016-07-30 22:25:17 somebody totally buy [YYH] with [100.00] price , amount is 15
+2016-07-30 22:25:19 somebody partly buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:25:19 somebody partly cancel buy [YYH] with [100.00] price , amount is 83
+2016-07-30 22:25:28 somebody partly sell [YYH] with [100.00] price , amount is 49
+2016-07-30 22:25:28 somebody partly cancel sell [YYH] with [100.00] price , amount is 46
+2016-07-30 22:25:29 somebody partly buy [YYH] with [100.00] price , amount is 46
+2016-07-30 22:25:29 somebody partly cancel buy [YYH] with [100.00] price , amount is 22
+2016-07-30 22:25:30 somebody partly sell [YYH] with [100.00] price , amount is 5
+2016-07-30 22:25:30 somebody partly cancel sell [YYH] with [100.00] price , amount is 25
+2016-07-30 22:25:31 somebody partly buy [YYH] with [100.00] price , amount is 25
+2016-07-30 22:25:31 somebody partly cancel buy [YYH] with [100.00] price , amount is 59
+2016-07-30 22:25:32 somebody totally sell [YYH] with [103.58] price , amount is 59
+2016-07-30 22:25:33 somebody partly sell [YYH] with [103.58] price , amount is 20
+2016-07-30 22:25:33 somebody partly cancel sell [YYH] with [103.58] price , amount is 44
+2016-07-30 22:25:36 somebody totally sell [YYH] with [103.11] price , amount is 53
+2016-07-30 22:25:37 somebody totally buy [YYH] with [103.58] price , amount is 9
+2016-07-30 22:25:38 somebody partly buy [YYH] with [103.58] price , amount is 35
+2016-07-30 22:25:38 somebody partly cancel buy [YYH] with [103.58] price , amount is 41
+2016-07-30 22:25:39 somebody totally sell [YYH] with [103.58] price , amount is 27
+2016-07-30 22:25:41 somebody totally sell [YYH] with [103.58] price , amount is 2
+2016-07-30 22:25:44 somebody partly sell [YYH] with [103.58] price , amount is 47
+2016-07-30 22:25:44 somebody partly cancel sell [YYH] with [103.58] price , amount is 34
+2016-07-30 22:25:45 somebody partly sell [YYH] with [103.58] price , amount is 14
+2016-07-30 22:25:45 somebody partly cancel sell [YYH] with [103.58] price , amount is 78
+2016-07-30 22:25:47 somebody totally sell [YYH] with [102.62] price , amount is 24
+2016-07-30 22:25:48 somebody partly buy [YYH] with [103.58] price , amount is 34
+2016-07-30 22:25:48 somebody partly cancel buy [YYH] with [103.58] price , amount is 59
+2016-07-30 22:25:49 somebody totally sell [YYH] with [103.58] price , amount is 12
+2016-07-30 22:25:50 somebody partly sell [YYH] with [103.58] price , amount is 47
+2016-07-30 22:25:50 somebody partly cancel sell [YYH] with [103.58] price , amount is 7
+2016-07-30 22:25:54 somebody partly sell [YYH] with [102.78] price , amount is 60
+2016-07-30 22:25:54 somebody partly cancel sell [YYH] with [102.78] price , amount is 20
+2016-07-30 22:25:56 somebody partly sell [YYH] with [102.62] price , amount is 41
+2016-07-30 22:25:56 somebody partly cancel sell [YYH] with [102.62] price , amount is 47
+2016-07-30 22:26:00 somebody partly sell [YYH] with [101.75] price , amount is 39
+2016-07-30 22:26:00 somebody partly cancel sell [YYH] with [101.75] price , amount is 22
+2016-07-30 22:26:05 somebody partly sell [YYH] with [101.44] price , amount is 9
+2016-07-30 22:26:05 somebody partly cancel sell [YYH] with [101.44] price , amount is 74
+2016-07-30 22:26:06 somebody totally sell [YYH] with [100.55] price , amount is 40
+2016-07-30 22:26:09 somebody totally sell [YYH] with [100.55] price , amount is 46
+2016-07-30 22:26:14 somebody totally buy [YYH] with [101.44] price , amount is 5
+2016-07-30 22:26:15 somebody partly sell [YYH] with [101.27] price , amount is 14
+2016-07-30 22:26:15 somebody partly cancel sell [YYH] with [101.27] price , amount is 16
+2016-07-30 22:26:16 somebody partly buy [YYH] with [101.27] price , amount is 16
+2016-07-30 22:26:16 somebody partly cancel buy [YYH] with [101.27] price , amount is 23
+2016-07-30 22:26:19 somebody partly sell [YYH] with [101.27] price , amount is 23
+2016-07-30 22:26:19 somebody partly cancel sell [YYH] with [101.27] price , amount is 70
+2016-07-30 22:26:20 somebody partly buy [YYH] with [101.27] price , amount is 70
+2016-07-30 22:26:20 somebody partly cancel buy [YYH] with [101.27] price , amount is 26
+2016-07-30 22:26:22 somebody partly buy [YYH] with [101.44] price , amount is 69
+2016-07-30 22:26:22 somebody partly cancel buy [YYH] with [101.44] price , amount is 15
+2016-07-30 22:26:24 somebody partly sell [YYH] with [101.44] price , amount is 15
+2016-07-30 22:26:24 somebody partly cancel sell [YYH] with [101.44] price , amount is 8
+2016-07-30 22:26:25 somebody partly buy [YYH] with [101.44] price , amount is 8
+2016-07-30 22:26:25 somebody partly cancel buy [YYH] with [101.44] price , amount is 19
+2016-07-30 22:26:27 somebody partly sell [YYH] with [101.44] price , amount is 19
+2016-07-30 22:26:27 somebody partly cancel sell [YYH] with [101.44] price , amount is 42
+2016-07-30 22:26:28 somebody totally buy [YYH] with [101.44] price , amount is 16
+2016-07-30 22:26:31 somebody partly sell [YYH] with [101.27] price , amount is 26
+2016-07-30 22:26:31 somebody partly cancel sell [YYH] with [101.27] price , amount is 69
+2016-07-30 22:26:35 somebody totally buy [YYH] with [101.27] price , amount is 22
+2016-07-30 22:26:36 somebody totally buy [YYH] with [101.27] price , amount is 39
+2016-07-30 22:26:38 somebody partly buy [YYH] with [101.27] price , amount is 8
+2016-07-30 22:26:38 somebody partly cancel buy [YYH] with [101.27] price , amount is 11
+2016-07-30 22:26:40 somebody partly sell [YYH] with [101.27] price , amount is 11
+2016-07-30 22:26:40 somebody partly cancel sell [YYH] with [101.27] price , amount is 58
+2016-07-30 22:26:41 somebody totally buy [YYH] with [101.27] price , amount is 38
+2016-07-30 22:26:43 somebody partly sell [YYH] with [100.55] price , amount is 19
+2016-07-30 22:26:43 somebody partly cancel sell [YYH] with [100.55] price , amount is 77
+2016-07-30 22:26:45 somebody totally buy [YYH] with [100.55] price , amount is 71
+2016-07-30 22:26:49 somebody partly buy [YYH] with [100.55] price , amount is 6
+2016-07-30 22:26:49 somebody partly cancel buy [YYH] with [100.55] price , amount is 86
+2016-07-30 22:26:50 somebody partly sell [YYH] with [100.55] price , amount is 86
+2016-07-30 22:26:50 somebody partly cancel sell [YYH] with [100.55] price , amount is 8
+2016-07-30 22:26:52 somebody partly sell [YYH] with [100.30] price , amount is 26
+2016-07-30 22:26:52 somebody partly cancel sell [YYH] with [100.30] price , amount is 19
+2016-07-30 22:26:54 somebody partly sell [YYH] with [100.04] price , amount is 83
+2016-07-30 22:26:54 somebody partly cancel sell [YYH] with [100.04] price , amount is 11
+2016-07-30 22:26:55 somebody totally sell [YYH] with [100.00] price , amount is 13
+2016-07-30 22:26:58 somebody partly sell [YYH] with [100.00] price , amount is 6
+2016-07-30 22:26:58 somebody partly cancel sell [YYH] with [100.00] price , amount is 48
+2016-07-30 22:26:59 somebody totally sell [YYH] with [100.00] price , amount is 73
+2016-07-30 22:27:05 somebody partly buy [YYH] with [100.00] price , amount is 48
+2016-07-30 22:27:05 somebody partly cancel buy [YYH] with [100.00] price , amount is 46
+2016-07-30 22:27:06 somebody partly buy [YYH] with [100.04] price , amount is 11
+2016-07-30 22:27:06 somebody partly cancel buy [YYH] with [100.04] price , amount is 49
+2016-07-30 22:27:11 somebody partly buy [YYH] with [100.30] price , amount is 19
+2016-07-30 22:27:11 somebody partly cancel buy [YYH] with [100.30] price , amount is 21
+2016-07-30 22:27:15 somebody partly sell [YYH] with [100.30] price , amount is 21
+2016-07-30 22:27:15 somebody partly cancel sell [YYH] with [100.30] price , amount is 24
+2016-07-30 22:27:16 somebody totally sell [YYH] with [100.04] price , amount is 48
+2016-07-30 22:27:18 somebody partly buy [YYH] with [100.30] price , amount is 24
+2016-07-30 22:27:18 somebody partly cancel buy [YYH] with [100.30] price , amount is 68
+2016-07-30 22:27:19 somebody totally sell [YYH] with [100.30] price , amount is 26
+2016-07-30 22:27:20 somebody partly buy [YYH] with [100.55] price , amount is 8
+2016-07-30 22:27:20 somebody partly cancel buy [YYH] with [100.55] price , amount is 6
+2016-07-30 22:27:24 somebody partly buy [YYH] with [101.27] price , amount is 20
+2016-07-30 22:27:24 somebody partly cancel buy [YYH] with [101.27] price , amount is 7
+2016-07-30 22:27:29 somebody partly sell [YYH] with [101.27] price , amount is 7
+2016-07-30 22:27:29 somebody partly cancel sell [YYH] with [101.27] price , amount is 18
+2016-07-30 22:27:30 somebody partly buy [YYH] with [101.27] price , amount is 18
+2016-07-30 22:27:30 somebody partly cancel buy [YYH] with [101.27] price , amount is 4
+2016-07-30 22:27:32 somebody partly sell [YYH] with [101.27] price , amount is 4
+2016-07-30 22:27:32 somebody partly cancel sell [YYH] with [101.27] price , amount is 54
+2016-07-30 22:27:33 somebody totally buy [YYH] with [101.27] price , amount is 35
+2016-07-30 22:27:34 somebody partly sell [YYH] with [101.21] price , amount is 39
+2016-07-30 22:27:34 somebody partly cancel sell [YYH] with [101.21] price , amount is 10
+2016-07-30 22:27:35 somebody partly sell [YYH] with [100.55] price , amount is 6
+2016-07-30 22:27:35 somebody partly cancel sell [YYH] with [100.55] price , amount is 32
+2016-07-30 22:27:37 somebody partly buy [YYH] with [100.55] price , amount is 32
+2016-07-30 22:27:37 somebody partly cancel buy [YYH] with [100.55] price , amount is 64
+2016-07-30 22:27:38 somebody totally sell [YYH] with [100.55] price , amount is 29
+2016-07-30 22:27:41 somebody totally sell [YYH] with [100.55] price , amount is 17
+2016-07-30 22:27:44 somebody totally sell [YYH] with [100.55] price , amount is 1
+2016-07-30 22:27:47 somebody partly buy [YYH] with [101.21] price , amount is 10
+2016-07-30 22:27:47 somebody partly cancel buy [YYH] with [101.21] price , amount is 67
+2016-07-30 22:27:50 somebody partly buy [YYH] with [101.27] price , amount is 19
+2016-07-30 22:27:50 somebody partly cancel buy [YYH] with [101.27] price , amount is 38
+2016-07-30 22:27:51 somebody partly sell [YYH] with [101.27] price , amount is 38
+2016-07-30 22:27:51 somebody partly cancel sell [YYH] with [101.27] price , amount is 34
+2016-07-30 22:27:52 somebody partly buy [YYH] with [101.27] price , amount is 34
+2016-07-30 22:27:52 somebody partly cancel buy [YYH] with [101.27] price , amount is 51
+2016-07-30 22:27:53 somebody totally sell [YYH] with [101.27] price , amount is 19
+2016-07-30 22:27:54 somebody partly sell [YYH] with [101.27] price , amount is 32
+2016-07-30 22:27:54 somebody partly cancel sell [YYH] with [101.27] price , amount is 57
+2016-07-30 22:27:58 somebody partly buy [YYH] with [101.27] price , amount is 57
+2016-07-30 22:27:58 somebody partly cancel buy [YYH] with [101.27] price , amount is 20
+2016-07-30 22:27:59 somebody partly sell [YYH] with [101.27] price , amount is 20
+2016-07-30 22:27:59 somebody partly cancel sell [YYH] with [101.27] price , amount is 54
+2016-07-30 22:28:01 somebody partly buy [YYH] with [101.27] price , amount is 54
+2016-07-30 22:28:01 somebody partly cancel buy [YYH] with [101.27] price , amount is 29
+2016-07-30 22:28:02 somebody partly sell [YYH] with [101.27] price , amount is 29
+2016-07-30 22:28:02 somebody partly cancel sell [YYH] with [101.27] price , amount is 9
+2016-07-30 22:28:03 somebody partly buy [YYH] with [101.27] price , amount is 9
+2016-07-30 22:28:03 somebody partly cancel buy [YYH] with [101.27] price , amount is 82
+2016-07-30 22:28:04 somebody partly sell [YYH] with [101.27] price , amount is 82
+2016-07-30 22:28:04 somebody partly cancel sell [YYH] with [101.27] price , amount is 7
+2016-07-30 22:28:05 somebody partly buy [YYH] with [101.27] price , amount is 7
+2016-07-30 22:28:05 somebody partly cancel buy [YYH] with [101.27] price , amount is 93
+2016-07-30 22:28:06 somebody totally buy [YYH] with [101.40] price , amount is 31
+2016-07-30 22:28:08 somebody totally sell [YYH] with [101.27] price , amount is 9
+2016-07-30 22:28:09 somebody totally sell [YYH] with [101.27] price , amount is 82
+2016-07-30 22:28:12 somebody partly sell [YYH] with [101.27] price , amount is 2
+2016-07-30 22:28:12 somebody partly cancel sell [YYH] with [101.27] price , amount is 93
+2016-07-30 22:28:13 somebody totally buy [YYH] with [101.27] price , amount is 88
+2016-07-30 22:28:14 somebody partly buy [YYH] with [101.27] price , amount is 5
+2016-07-30 22:28:14 somebody partly cancel buy [YYH] with [101.27] price , amount is 66
+2016-07-30 22:28:15 somebody totally sell [YYH] with [101.27] price , amount is 41
+2016-07-30 22:28:16 somebody partly sell [YYH] with [101.27] price , amount is 25
+2016-07-30 22:28:16 somebody partly cancel sell [YYH] with [101.27] price , amount is 22
+2016-07-30 22:28:17 somebody partly sell [YYH] with [101.21] price , amount is 67
+2016-07-30 22:28:17 somebody partly cancel sell [YYH] with [101.21] price , amount is 28
+2016-07-30 22:28:20 somebody partly sell [YYH] with [100.55] price , amount is 17
+2016-07-30 22:28:20 somebody partly cancel sell [YYH] with [100.55] price , amount is 79
+2016-07-30 22:28:22 somebody partly sell [YYH] with [100.30] price , amount is 42
+2016-07-30 22:28:22 somebody partly cancel sell [YYH] with [100.30] price , amount is 35
+2016-07-30 22:28:27 somebody partly sell [YYH] with [100.04] price , amount is 1
+2016-07-30 22:28:27 somebody partly cancel sell [YYH] with [100.04] price , amount is 81
+2016-07-30 22:28:30 somebody partly sell [YYH] with [100.00] price , amount is 10
+2016-07-30 22:28:30 somebody partly cancel sell [YYH] with [100.00] price , amount is 72
+2016-07-30 22:28:31 somebody partly sell [YYH] with [100.00] price , amount is 22
+2016-07-30 22:28:31 somebody partly cancel sell [YYH] with [100.00] price , amount is 43
+2016-07-30 22:28:34 somebody totally buy [YYH] with [100.00] price , amount is 28
+2016-07-30 22:28:39 somebody partly buy [YYH] with [100.00] price , amount is 44
+2016-07-30 22:28:39 somebody partly cancel buy [YYH] with [100.00] price , amount is 49
+2016-07-30 22:28:40 somebody partly buy [YYH] with [100.00] price , amount is 43
+2016-07-30 22:28:40 somebody partly cancel buy [YYH] with [100.00] price , amount is 55
+2016-07-30 22:28:44 somebody partly sell [YYH] with [100.00] price , amount is 59
+2016-07-30 22:28:44 somebody partly cancel sell [YYH] with [100.00] price , amount is 20
+2016-07-30 22:28:45 somebody totally sell [YYH] with [100.00] price , amount is 20
+2016-07-30 22:28:50 somebody partly buy [YYH] with [100.00] price , amount is 20
+2016-07-30 22:28:50 somebody partly cancel buy [YYH] with [100.00] price , amount is 26
+2016-07-30 22:28:53 somebody partly buy [YYH] with [100.04] price , amount is 81
+2016-07-30 22:28:53 somebody partly cancel buy [YYH] with [100.04] price , amount is 9
+2016-07-30 22:28:55 somebody totally buy [YYH] with [100.28] price , amount is 36
+2016-07-30 22:28:57 somebody partly buy [YYH] with [100.28] price , amount is 17
+2016-07-30 22:28:57 somebody partly cancel buy [YYH] with [100.28] price , amount is 56
+2016-07-30 22:29:01 somebody totally sell [YYH] with [100.28] price , amount is 10
+2016-07-30 22:29:03 somebody partly buy [YYH] with [100.30] price , amount is 35
+2016-07-30 22:29:03 somebody partly cancel buy [YYH] with [100.30] price , amount is 5
+2016-07-30 22:29:04 somebody totally buy [YYH] with [100.55] price , amount is 78
+2016-07-30 22:29:09 somebody partly sell [YYH] with [100.30] price , amount is 5
+2016-07-30 22:29:09 somebody partly cancel sell [YYH] with [100.30] price , amount is 8
+2016-07-30 22:29:10 somebody partly sell [YYH] with [100.28] price , amount is 46
+2016-07-30 22:29:10 somebody partly cancel sell [YYH] with [100.28] price , amount is 12
+2016-07-30 22:29:11 somebody totally sell [YYH] with [100.04] price , amount is 7
+2016-07-30 22:29:12 somebody partly sell [YYH] with [100.04] price , amount is 2
+2016-07-30 22:29:12 somebody partly cancel sell [YYH] with [100.04] price , amount is 93
+2016-07-30 22:29:13 somebody totally buy [YYH] with [100.04] price , amount is 48
+2016-07-30 22:29:16 somebody partly buy [YYH] with [100.04] price , amount is 45
+2016-07-30 22:29:16 somebody partly cancel buy [YYH] with [100.04] price , amount is 24
+2016-07-30 22:29:17 somebody partly buy [YYH] with [100.28] price , amount is 12
+2016-07-30 22:29:17 somebody partly cancel buy [YYH] with [100.28] price , amount is 2
+2016-07-30 22:29:19 somebody partly buy [YYH] with [100.30] price , amount is 8
+2016-07-30 22:29:19 somebody partly cancel buy [YYH] with [100.30] price , amount is 87
+2016-07-30 22:29:20 somebody totally sell [YYH] with [100.30] price , amount is 81
+2016-07-30 22:29:21 somebody partly buy [YYH] with [100.55] price , amount is 1
+2016-07-30 22:29:21 somebody partly cancel buy [YYH] with [100.55] price , amount is 57
+2016-07-30 22:29:23 somebody partly sell [YYH] with [100.55] price , amount is 57
+2016-07-30 22:29:23 somebody partly cancel sell [YYH] with [100.55] price , amount is 5
+2016-07-30 22:29:25 somebody partly sell [YYH] with [100.30] price , amount is 6
+2016-07-30 22:29:25 somebody partly cancel sell [YYH] with [100.30] price , amount is 78
+2016-07-30 22:29:26 somebody partly sell [YYH] with [100.28] price , amount is 2
+2016-07-30 22:29:26 somebody partly cancel sell [YYH] with [100.28] price , amount is 53
+2016-07-30 22:29:27 somebody partly buy [YYH] with [100.28] price , amount is 53
+2016-07-30 22:29:27 somebody partly cancel buy [YYH] with [100.28] price , amount is 21
+2016-07-30 22:29:28 somebody partly sell [YYH] with [100.28] price , amount is 21
+2016-07-30 22:29:28 somebody partly cancel sell [YYH] with [100.28] price , amount is 37
+2016-07-30 22:29:33 somebody totally buy [YYH] with [100.28] price , amount is 5
+2016-07-30 22:29:34 somebody totally buy [YYH] with [100.28] price , amount is 30
+2016-07-30 22:29:35 somebody partly sell [YYH] with [100.04] price , amount is 24
+2016-07-30 22:29:35 somebody partly cancel sell [YYH] with [100.04] price , amount is 67
+2016-07-30 22:29:39 somebody totally buy [YYH] with [100.04] price , amount is 48
+2016-07-30 22:29:40 somebody totally sell [YYH] with [100.00] price , amount is 8
+2016-07-30 22:29:41 somebody partly buy [YYH] with [100.04] price , amount is 19
+2016-07-30 22:29:41 somebody partly cancel buy [YYH] with [100.04] price , amount is 42
+2016-07-30 22:29:42 somebody partly buy [YYH] with [100.28] price , amount is 2
+2016-07-30 22:29:42 somebody partly cancel buy [YYH] with [100.28] price , amount is 21
+2016-07-30 22:29:43 somebody partly buy [YYH] with [100.30] price , amount is 78
+2016-07-30 22:29:43 somebody partly cancel buy [YYH] with [100.30] price , amount is 7
+2016-07-30 22:29:45 somebody partly sell [YYH] with [100.30] price , amount is 7
+2016-07-30 22:29:45 somebody partly cancel sell [YYH] with [100.30] price , amount is 52
+2016-07-30 22:29:48 somebody partly sell [YYH] with [100.28] price , amount is 21
+2016-07-30 22:29:48 somebody partly cancel sell [YYH] with [100.28] price , amount is 64
+2016-07-30 22:29:49 somebody partly buy [YYH] with [100.28] price , amount is 64
+2016-07-30 22:29:49 somebody partly cancel buy [YYH] with [100.28] price , amount is 31
+2016-07-30 22:29:50 somebody totally sell [YYH] with [100.28] price , amount is 31
+2016-07-30 22:29:51 somebody partly buy [YYH] with [100.30] price , amount is 52
+2016-07-30 22:29:51 somebody partly cancel buy [YYH] with [100.30] price , amount is 27
+2016-07-30 22:29:53 somebody partly buy [YYH] with [100.55] price , amount is 5
+2016-07-30 22:29:53 somebody partly cancel buy [YYH] with [100.55] price , amount is 95
+2016-07-30 22:29:54 somebody totally sell [YYH] with [100.55] price , amount is 17
+2016-07-30 22:29:58 somebody totally buy [YYH] with [101.21] price , amount is 22
+2016-07-30 22:30:00 somebody partly buy [YYH] with [101.21] price , amount is 6
+2016-07-30 22:30:00 somebody partly cancel buy [YYH] with [101.21] price , amount is 59
+2016-07-30 22:30:01 somebody totally sell [YYH] with [101.21] price , amount is 12
+2016-07-30 22:30:04 somebody partly sell [YYH] with [101.21] price , amount is 47
+2016-07-30 22:30:04 somebody partly cancel sell [YYH] with [101.21] price , amount is 22
+2016-07-30 22:30:06 somebody partly sell [YYH] with [100.55] price , amount is 78
+2016-07-30 22:30:06 somebody partly cancel sell [YYH] with [100.55] price , amount is 1
+2016-07-30 22:30:07 somebody partly sell [YYH] with [100.30] price , amount is 27
+2016-07-30 22:30:07 somebody partly cancel sell [YYH] with [100.30] price , amount is 59
+2016-07-30 22:30:08 somebody partly sell [YYH] with [100.04] price , amount is 42
+2016-07-30 22:30:08 somebody partly cancel sell [YYH] with [100.04] price , amount is 16
+2016-07-30 22:30:09 somebody partly buy [YYH] with [100.04] price , amount is 16
+2016-07-30 22:30:09 somebody partly cancel buy [YYH] with [100.04] price , amount is 3
+2016-07-30 22:30:10 somebody partly sell [YYH] with [100.04] price , amount is 3
+2016-07-30 22:30:10 somebody partly cancel sell [YYH] with [100.04] price , amount is 31
+2016-07-30 22:30:13 somebody totally buy [YYH] with [100.04] price , amount is 2
+2016-07-30 22:30:14 somebody totally sell [YYH] with [100.00] price , amount is 8
+2016-07-30 22:30:16 somebody partly sell [YYH] with [100.00] price , amount is 10
+2016-07-30 22:30:16 somebody partly cancel sell [YYH] with [100.00] price , amount is 14
+2016-07-30 22:30:17 somebody totally buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:30:18 somebody totally sell [YYH] with [100.00] price , amount is 42
+2016-07-30 22:30:19 somebody partly sell [YYH] with [100.00] price , amount is 7
+2016-07-30 22:30:19 somebody partly cancel sell [YYH] with [100.00] price , amount is 44
+2016-07-30 22:30:20 somebody partly sell [YYH] with [100.00] price , amount is 55
+2016-07-30 22:30:20 somebody partly cancel sell [YYH] with [100.00] price , amount is 25
+2016-07-30 22:30:27 somebody totally sell [YYH] with [100.00] price , amount is 16
+2016-07-30 22:30:28 somebody partly sell [YYH] with [100.00] price , amount is 10
+2016-07-30 22:30:28 somebody partly cancel sell [YYH] with [100.00] price , amount is 65
+2016-07-30 22:30:29 somebody partly buy [YYH] with [100.00] price , amount is 9
+2016-07-30 22:30:29 somebody partly cancel buy [YYH] with [100.00] price , amount is 77
+2016-07-30 22:30:34 somebody partly sell [YYH] with [100.00] price , amount is 77
+2016-07-30 22:30:34 somebody partly cancel sell [YYH] with [100.00] price , amount is 16
+2016-07-30 22:30:37 somebody partly sell [YYH] with [99.86] price , amount is 71
+2016-07-30 22:30:37 somebody partly cancel sell [YYH] with [99.86] price , amount is 7
+2016-07-30 22:30:39 somebody totally sell [YYH] with [99.75] price , amount is 54
+2016-07-30 22:30:40 somebody partly buy [YYH] with [99.86] price , amount is 7
+2016-07-30 22:30:40 somebody partly cancel buy [YYH] with [99.86] price , amount is 84
+2016-07-30 22:30:45 somebody partly buy [YYH] with [100.00] price , amount is 44
+2016-07-30 22:30:45 somebody partly cancel buy [YYH] with [100.00] price , amount is 50
+2016-07-30 22:30:49 somebody totally buy [YYH] with [100.00] price , amount is 2
+2016-07-30 22:30:50 somebody partly buy [YYH] with [100.00] price , amount is 23
+2016-07-30 22:30:50 somebody partly cancel buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:30:51 somebody totally buy [YYH] with [100.00] price , amount is 2
+2016-07-30 22:30:52 somebody totally sell [YYH] with [100.00] price , amount is 30
+2016-07-30 22:30:53 somebody partly buy [YYH] with [100.00] price , amount is 63
+2016-07-30 22:30:53 somebody partly cancel buy [YYH] with [100.00] price , amount is 35
+2016-07-30 22:30:54 somebody totally buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:30:56 somebody partly sell [YYH] with [100.00] price , amount is 20
+2016-07-30 22:30:56 somebody partly cancel sell [YYH] with [100.00] price , amount is 39
+2016-07-30 22:30:58 somebody partly sell [YYH] with [100.00] price , amount is 5
+2016-07-30 22:30:58 somebody partly cancel sell [YYH] with [100.00] price , amount is 7
+2016-07-30 22:30:59 somebody partly sell [YYH] with [100.00] price , amount is 35
+2016-07-30 22:30:59 somebody partly cancel sell [YYH] with [100.00] price , amount is 37
+2016-07-30 22:31:00 somebody totally sell [YYH] with [99.86] price , amount is 71
+2016-07-30 22:31:01 somebody partly buy [YYH] with [100.00] price , amount is 11
+2016-07-30 22:31:01 somebody partly cancel buy [YYH] with [100.00] price , amount is 43
+2016-07-30 22:31:02 somebody partly buy [YYH] with [100.00] price , amount is 39
+2016-07-30 22:31:02 somebody partly cancel buy [YYH] with [100.00] price , amount is 30
+2016-07-30 22:31:03 somebody totally buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:31:05 somebody partly buy [YYH] with [100.00] price , amount is 2
+2016-07-30 22:31:05 somebody partly cancel buy [YYH] with [100.00] price , amount is 65
+2016-07-30 22:31:06 somebody totally buy [YYH] with [100.00] price , amount is 37
+2016-07-30 22:31:07 somebody totally buy [YYH] with [100.04] price , amount is 20
+2016-07-30 22:31:08 somebody partly buy [YYH] with [100.04] price , amount is 9
+2016-07-30 22:31:08 somebody partly cancel buy [YYH] with [100.04] price , amount is 81
+2016-07-30 22:31:09 somebody totally sell [YYH] with [100.04] price , amount is 66
+2016-07-30 22:31:10 somebody partly buy [YYH] with [100.30] price , amount is 59
+2016-07-30 22:31:10 somebody partly cancel buy [YYH] with [100.30] price , amount is 16
+2016-07-30 22:31:11 somebody partly buy [YYH] with [100.55] price , amount is 1
+2016-07-30 22:31:11 somebody partly cancel buy [YYH] with [100.55] price , amount is 87
+2016-07-30 22:31:15 somebody totally buy [YYH] with [100.79] price , amount is 22
+2016-07-30 22:31:17 somebody totally buy [YYH] with [100.79] price , amount is 4
+2016-07-30 22:31:22 somebody totally sell [YYH] with [100.55] price , amount is 37
+2016-07-30 22:31:23 somebody partly buy [YYH] with [100.79] price , amount is 2
+2016-07-30 22:31:23 somebody partly cancel buy [YYH] with [100.79] price , amount is 35
+2016-07-30 22:31:27 somebody partly buy [YYH] with [100.80] price , amount is 46
+2016-07-30 22:31:27 somebody partly cancel buy [YYH] with [100.80] price , amount is 21
+2016-07-30 22:31:29 somebody partly sell [YYH] with [100.80] price , amount is 21
+2016-07-30 22:31:29 somebody partly cancel sell [YYH] with [100.80] price , amount is 62
+2016-07-30 22:31:31 somebody totally sell [YYH] with [100.79] price , amount is 20
+2016-07-30 22:31:32 somebody partly sell [YYH] with [100.79] price , amount is 15
+2016-07-30 22:31:32 somebody partly cancel sell [YYH] with [100.79] price , amount is 21
+2016-07-30 22:31:36 somebody totally buy [YYH] with [100.79] price , amount is 19
+2016-07-30 22:31:37 somebody partly buy [YYH] with [100.79] price , amount is 2
+2016-07-30 22:31:37 somebody partly cancel buy [YYH] with [100.79] price , amount is 27
+2016-07-30 22:31:42 somebody partly buy [YYH] with [100.80] price , amount is 62
+2016-07-30 22:31:42 somebody partly cancel buy [YYH] with [100.80] price , amount is 1
+2016-07-30 22:31:43 somebody partly sell [YYH] with [100.80] price , amount is 1
+2016-07-30 22:31:43 somebody partly cancel sell [YYH] with [100.80] price , amount is 94
+2016-07-30 22:31:44 somebody totally buy [YYH] with [100.80] price , amount is 8
+2016-07-30 22:31:45 somebody totally buy [YYH] with [100.80] price , amount is 25
+2016-07-30 22:31:46 somebody totally buy [YYH] with [100.80] price , amount is 55
+2016-07-30 22:31:47 somebody partly buy [YYH] with [100.80] price , amount is 6
+2016-07-30 22:31:47 somebody partly cancel buy [YYH] with [100.80] price , amount is 43
+2016-07-30 22:31:48 somebody partly sell [YYH] with [100.80] price , amount is 43
+2016-07-30 22:31:48 somebody partly cancel sell [YYH] with [100.80] price , amount is 32
+2016-07-30 22:31:51 somebody partly sell [YYH] with [100.79] price , amount is 27
+2016-07-30 22:31:51 somebody partly cancel sell [YYH] with [100.79] price , amount is 54
+2016-07-30 22:31:52 somebody partly sell [YYH] with [100.55] price , amount is 50
+2016-07-30 22:31:52 somebody partly cancel sell [YYH] with [100.55] price , amount is 6
+2016-07-30 22:31:53 somebody partly sell [YYH] with [100.30] price , amount is 16
+2016-07-30 22:31:53 somebody partly cancel sell [YYH] with [100.30] price , amount is 66
+2016-07-30 22:31:59 somebody totally buy [YYH] with [100.30] price , amount is 30
+2016-07-30 22:32:01 somebody totally buy [YYH] with [100.30] price , amount is 24
+2016-07-30 22:32:02 somebody partly sell [YYH] with [100.04] price , amount is 15
+2016-07-30 22:32:02 somebody partly cancel sell [YYH] with [100.04] price , amount is 26
+2016-07-30 22:32:05 somebody totally sell [YYH] with [100.00] price , amount is 21
+2016-07-30 22:32:06 somebody partly buy [YYH] with [100.04] price , amount is 26
+2016-07-30 22:32:08 somebody partly buy [YYH] with [100.30] price , amount is 12
+2016-07-30 22:32:16 somebody partly buy [YYH] with [100.55] price , amount is 6
+2016-07-30 22:32:18 somebody partly sell [YYH] with [100.55] price , amount is 31
+2016-07-30 22:32:19 somebody partly sell [YYH] with [100.30] price , amount is 64
+2016-07-30 22:32:23 somebody totally sell [YYH] with [100.04] price , amount is 3
+2016-07-30 22:32:24 somebody partly buy [YYH] with [100.30] price , amount is 28
+2016-07-30 22:32:26 somebody partly buy [YYH] with [100.55] price , amount is 59
+2016-07-30 22:32:27 somebody partly buy [YYH] with [100.79] price , amount is 54
+2016-07-30 22:32:28 somebody partly sell [YYH] with [100.79] price , amount is 38
+2016-07-30 22:32:29 somebody partly buy [YYH] with [100.79] price , amount is 6
+2016-07-30 22:32:30 somebody partly sell [YYH] with [100.79] price , amount is 55
+2016-07-30 22:32:31 somebody partly sell [YYH] with [100.55] price , amount is 30
+2016-07-30 22:32:37 somebody totally sell [YYH] with [100.30] price , amount is 22
+2016-07-30 22:32:39 somebody partly buy [YYH] with [100.55] price , amount is 2
+2016-07-30 22:32:41 somebody partly sell [YYH] with [100.55] price , amount is 18
+2016-07-30 22:32:42 somebody partly sell [YYH] with [100.30] price , amount is 9
+2016-07-30 22:32:43 somebody partly buy [YYH] with [100.30] price , amount is 22
+2016-07-30 22:32:44 somebody partly buy [YYH] with [100.55] price , amount is 8
+2016-07-30 22:32:45 somebody partly sell [YYH] with [100.55] price , amount is 11
+2016-07-30 22:32:47 somebody partly sell [YYH] with [100.30] price , amount is 17
+2016-07-30 22:32:49 somebody totally sell [YYH] with [100.04] price , amount is 22
+2016-07-30 22:32:50 somebody partly buy [YYH] with [100.30] price , amount is 52
+2016-07-30 22:32:51 somebody partly sell [YYH] with [100.30] price , amount is 24
+2016-07-30 22:32:55 somebody totally buy [YYH] with [100.30] price , amount is 17
+2016-07-30 22:32:58 somebody totally sell [YYH] with [100.04] price , amount is 10
+2016-07-30 22:32:59 somebody totally buy [YYH] with [100.30] price , amount is 7
+2016-07-30 22:33:00 somebody totally sell [YYH] with [100.04] price , amount is 2
+2016-07-30 22:33:01 somebody partly sell [YYH] with [100.04] price , amount is 29
+2016-07-30 22:33:03 somebody partly buy [YYH] with [100.04] price , amount is 3
+2016-07-30 22:33:05 somebody totally buy [YYH] with [100.30] price , amount is 17
+2016-07-30 22:33:06 somebody partly buy [YYH] with [100.55] price , amount is 83
+2016-07-30 22:33:10 somebody partly sell [YYH] with [100.55] price , amount is 6
+2016-07-30 22:33:17 somebody totally sell [YYH] with [100.04] price , amount is 12
+2016-07-30 22:33:19 somebody totally buy [YYH] with [100.55] price , amount is 61
+2016-07-30 22:33:20 somebody partly sell [YYH] with [100.04] price , amount is 4
+2016-07-30 22:33:21 somebody partly sell [YYH] with [100.00] price , amount is 22
+2016-07-30 22:33:25 somebody totally sell [YYH] with [100.00] price , amount is 1
+2016-07-30 22:33:26 somebody totally buy [YYH] with [100.00] price , amount is 19
+2016-07-30 22:33:28 somebody partly sell [YYH] with [100.00] price , amount is 29
+2016-07-30 22:33:31 somebody partly sell [YYH] with [100.00] price , amount is 65
+2016-07-30 22:33:32 somebody totally sell [YYH] with [99.96] price , amount is 13
+2016-07-30 22:33:33 somebody totally sell [YYH] with [99.96] price , amount is 56
+2016-07-30 22:33:34 somebody partly sell [YYH] with [99.86] price , amount is 13
+2016-07-30 22:33:35 somebody totally sell [YYH] with [99.75] price , amount is 28
+2016-07-30 22:33:37 somebody partly buy [YYH] with [99.86] price , amount is 71
+2016-07-30 22:33:38 somebody partly buy [YYH] with [100.00] price , amount is 25
+2016-07-30 22:33:39 somebody totally sell [YYH] with [100.00] price , amount is 3
+2016-07-30 22:33:45 somebody totally sell [YYH] with [100.00] price , amount is 33
+2016-07-30 22:33:46 somebody totally buy [YYH] with [100.00] price , amount is 21
+2016-07-30 22:33:47 somebody partly sell [YYH] with [100.00] price , amount is 19
+2016-07-30 22:33:48 somebody partly sell [YYH] with [99.86] price , amount is 23
+2016-07-30 22:33:50 somebody partly sell [YYH] with [99.75] price , amount is 12
+2016-07-30 22:33:53 somebody partly sell [YYH] with [99.74] price , amount is 11
+2016-07-30 22:33:54 somebody partly sell [YYH] with [99.59] price , amount is 72
+2016-07-30 22:33:56 somebody partly sell [YYH] with [99.55] price , amount is 55
+2016-07-30 22:33:58 somebody partly buy [YYH] with [99.55] price , amount is 25
+2016-07-30 22:34:02 somebody partly buy [YYH] with [99.59] price , amount is 28
+2016-07-30 22:34:06 somebody partly sell [YYH] with [99.59] price , amount is 35
+2016-07-30 22:34:09 somebody partly buy [YYH] with [99.59] price , amount is 30
+2016-07-30 22:34:10 somebody totally buy [YYH] with [99.74] price , amount is 6
+2016-07-30 22:34:11 somebody partly buy [YYH] with [99.74] price , amount is 44
+2016-07-30 22:34:12 somebody totally buy [YYH] with [99.75] price , amount is 22
+2016-07-30 22:34:15 somebody totally sell [YYH] with [99.74] price , amount is 29
+2016-07-30 22:34:19 somebody partly sell [YYH] with [99.74] price , amount is 4
+2016-07-30 22:34:20 somebody partly buy [YYH] with [99.74] price , amount is 1
+2016-07-30 22:34:22 somebody partly buy [YYH] with [99.75] price , amount is 58
+2016-07-30 22:34:23 somebody partly buy [YYH] with [99.86] price , amount is 33
+2016-07-30 22:34:29 somebody totally buy [YYH] with [100.00] price , amount is 23
+2016-07-30 22:34:30 somebody partly buy [YYH] with [100.00] price , amount is 6
+2016-07-30 22:34:35 somebody partly buy [YYH] with [100.00] price , amount is 3
+2016-07-30 22:34:38 somebody partly sell [YYH] with [100.00] price , amount is 88
+2016-07-30 22:34:40 somebody partly buy [YYH] with [100.00] price , amount is 13
+2016-07-30 22:34:46 somebody totally sell [YYH] with [100.00] price , amount is 32
+2016-07-30 22:34:47 somebody totally sell [YYH] with [100.00] price , amount is 28
+2016-07-30 22:34:53 somebody partly sell [YYH] with [100.00] price , amount is 4
+2016-07-30 22:34:56 somebody partly buy [YYH] with [100.00] price , amount is 6
+2016-07-30 22:34:57 somebody totally buy [YYH] with [100.00] price , amount is 27
+2016-07-30 22:34:58 somebody partly sell [YYH] with [100.00] price , amount is 81
+2016-07-30 22:35:01 somebody totally sell [YYH] with [100.00] price , amount is 20
+2016-07-30 22:35:02 somebody totally sell [YYH] with [100.00] price , amount is 14
+2016-07-30 22:35:03 somebody partly buy [YYH] with [100.00] price , amount is 54
+2016-07-30 22:35:04 somebody partly sell [YYH] with [100.00] price , amount is 12
+2016-07-30 22:35:05 somebody partly sell [YYH] with [100.00] price , amount is 26
+2016-07-30 22:35:07 somebody partly buy [YYH] with [100.00] price , amount is 13
+2016-07-30 22:35:09 somebody partly buy [YYH] with [100.00] price , amount is 5
+2016-07-30 22:35:12 somebody partly buy [YYH] with [100.00] price , amount is 4
+2016-07-30 22:35:14 somebody totally buy [YYH] with [100.04] price , amount is 67
+2016-07-30 22:35:15 somebody partly buy [YYH] with [100.04] price , amount is 24
+2016-07-30 22:35:16 somebody partly buy [YYH] with [100.18] price , amount is 9
+2016-07-30 22:35:20 somebody totally buy [YYH] with [100.39] price , amount is 13
+2016-07-30 22:35:23 somebody partly buy [YYH] with [100.39] price , amount is 10
+2016-07-30 22:35:24 somebody partly buy [YYH] with [100.55] price , amount is 8
+2016-07-30 22:35:25 somebody partly buy [YYH] with [100.59] price , amount is 56
+2016-07-30 22:35:26 somebody totally buy [YYH] with [100.77] price , amount is 55
+2016-07-30 22:35:29 somebody partly buy [YYH] with [100.77] price , amount is 31
+2016-07-30 22:35:30 somebody partly buy [YYH] with [100.79] price , amount is 5
+2016-07-30 22:35:32 somebody partly sell [YYH] with [100.79] price , amount is 6
+2016-07-30 22:35:33 somebody partly buy [YYH] with [100.79] price , amount is 26
+2016-07-30 22:35:35 somebody partly buy [YYH] with [100.80] price , amount is 32
+2016-07-30 22:35:37 somebody totally buy [YYH] with [100.80] price , amount is 73
+2016-07-30 22:35:38 somebody partly sell [YYH] with [100.80] price , amount is 15
+2016-07-30 22:35:40 somebody partly sell [YYH] with [100.79] price , amount is 74
+2016-07-30 22:35:43 somebody totally sell [YYH] with [100.77] price , amount is 45
+2016-07-30 22:35:44 somebody partly sell [YYH] with [100.77] price , amount is 19
+2016-07-30 22:35:50 somebody partly buy [YYH] with [100.77] price , amount is 8
+2016-07-30 22:35:52 somebody partly buy [YYH] with [100.79] price , amount is 21
+2016-07-30 22:35:53 somebody partly buy [YYH] with [100.80] price , amount is 3
+2016-07-30 22:35:55 somebody totally sell [YYH] with [100.80] price , amount is 14
+2016-07-30 22:35:57 somebody partly buy [YYH] with [100.80] price , amount is 33
+2016-07-30 22:35:58 somebody partly sell [YYH] with [100.80] price , amount is 27
+2016-07-30 22:36:00 somebody totally buy [YYH] with [100.80] price , amount is 45
+2016-07-30 22:36:04 somebody partly buy [YYH] with [100.80] price , amount is 20
+2016-07-30 22:36:05 somebody totally buy [YYH] with [101.12] price , amount is 32
+2016-07-30 22:36:06 somebody partly sell [YYH] with [100.80] price , amount is 40
+2016-07-30 22:36:09 somebody partly sell [YYH] with [100.80] price , amount is 63
+2016-07-30 22:36:12 somebody partly sell [YYH] with [100.79] price , amount is 63
+2016-07-30 22:36:15 somebody totally sell [YYH] with [100.77] price , amount is 73
+2016-07-30 22:36:16 somebody totally buy [YYH] with [100.79] price , amount is 2
+2016-07-30 22:36:18 somebody partly sell [YYH] with [100.77] price , amount is 19
+2016-07-30 22:36:19 somebody partly sell [YYH] with [100.59] price , amount is 12
+2016-07-30 22:36:20 somebody totally sell [YYH] with [100.55] price , amount is 60
+2016-07-30 22:37:47 somebody totally sell [YYH] with [98.26] price , amount is 2
+2016-07-30 22:37:50 somebody partly sell [YYH] with [92.21] price , amount is 30
+2016-07-30 22:37:52 somebody totally sell [YYH] with [93.09] price , amount is 36
+2016-07-30 22:37:54 somebody partly sell [YYH] with [95.21] price , amount is 37
+2016-07-30 22:37:55 somebody partly buy [YYH] with [96.87] price , amount is 19
+2016-07-30 22:37:57 somebody totally sell [YYH] with [96.01] price , amount is 19
+2016-07-30 22:37:58 somebody partly sell [YYH] with [99.59] price , amount is 41
+2016-07-30 22:37:59 somebody totally buy [YYH] with [108.50] price , amount is 8
+2016-07-30 22:38:00 somebody totally buy [YYH] with [105.81] price , amount is 17
+2016-07-30 22:38:01 somebody totally buy [YYH] with [101.45] price , amount is 25
+2016-07-30 22:38:03 somebody partly buy [YYH] with [98.22] price , amount is 1
+2016-07-30 22:38:05 somebody partly sell [YYH] with [98.31] price , amount is 13
+2016-07-30 22:38:07 somebody totally buy [YYH] with [105.26] price , amount is 29
+2016-07-30 22:38:10 somebody partly buy [YYH] with [103.64] price , amount is 49
+2016-07-30 22:38:12 somebody partly sell [YYH] with [94.81] price , amount is 15
+2016-07-30 22:38:13 somebody partly buy [YYH] with [107.37] price , amount is 7
+2016-07-30 22:38:15 somebody partly buy [YYH] with [103.40] price , amount is 53
+2016-07-30 22:38:17 somebody partly sell [YYH] with [96.47] price , amount is 58
+2016-07-30 22:38:18 somebody partly buy [YYH] with [103.37] price , amount is 1
+2016-07-30 22:38:20 somebody partly buy [YYH] with [101.65] price , amount is 4
+2016-07-30 22:38:21 somebody partly buy [YYH] with [104.55] price , amount is 15
+2016-07-30 22:38:22 somebody partly sell [YYH] with [104.12] price , amount is 28
+2016-07-30 22:38:23 somebody partly buy [YYH] with [103.76] price , amount is 20
+2016-07-30 22:38:24 somebody totally sell [YYH] with [95.57] price , amount is 10
+2016-07-30 22:38:29 somebody partly sell [YYH] with [95.49] price , amount is 56
+2016-07-30 22:38:30 somebody partly buy [YYH] with [100.79] price , amount is 27
+2016-07-30 22:38:33 somebody partly sell [YYH] with [94.29] price , amount is 35
+2016-07-30 22:38:34 somebody totally sell [YYH] with [94.26] price , amount is 13
+2016-07-30 22:38:35 somebody totally sell [YYH] with [90.51] price , amount is 33
+2016-07-30 22:38:37 somebody totally buy [YYH] with [96.03] price , amount is 7
+2016-07-30 22:38:39 somebody totally sell [YYH] with [100.77] price , amount is 1
+2016-07-30 22:38:40 somebody partly buy [YYH] with [100.09] price , amount is 12
+2016-07-30 22:38:41 somebody totally buy [YYH] with [104.43] price , amount is 14
+2016-07-30 22:38:48 somebody partly buy [YYH] with [107.36] price , amount is 6
+2016-07-30 22:38:49 somebody partly sell [YYH] with [105.48] price , amount is 51
+2016-07-30 22:38:50 somebody totally sell [YYH] with [98.42] price , amount is 11
+2016-07-30 22:38:53 somebody partly sell [YYH] with [99.32] price , amount is 28
+2016-07-30 22:38:54 somebody totally buy [YYH] with [103.58] price , amount is 14
+2016-07-30 22:38:55 somebody partly sell [YYH] with [95.00] price , amount is 11
+2016-07-30 22:38:56 somebody partly buy [YYH] with [100.43] price , amount is 33
+2016-07-30 22:39:02 somebody totally buy [YYH] with [106.88] price , amount is 6
+2016-07-30 22:39:07 somebody partly buy [YYH] with [99.51] price , amount is 6
+2016-07-30 22:39:12 somebody partly buy [YYH] with [107.73] price , amount is 29
+2016-07-30 22:39:13 somebody partly sell [YYH] with [98.66] price , amount is 17
+2016-07-30 22:39:14 somebody partly sell [YYH] with [100.55] price , amount is 16
+2016-07-30 22:39:15 somebody totally sell [YYH] with [95.28] price , amount is 15
+2016-07-30 22:39:16 somebody partly sell [YYH] with [93.19] price , amount is 19
+2016-07-30 22:39:17 somebody partly buy [YYH] with [107.88] price , amount is 35
+2016-07-30 22:39:18 somebody partly sell [YYH] with [100.82] price , amount is 21
+2016-07-30 22:39:21 somebody totally buy [YYH] with [108.65] price , amount is 30
+2016-07-30 22:39:22 somebody totally sell [YYH] with [97.30] price , amount is 22
+2016-07-30 22:39:28 somebody totally buy [YYH] with [100.32] price , amount is 34
+2016-07-30 22:39:31 somebody partly buy [YYH] with [106.73] price , amount is 7
+2016-07-30 22:39:33 somebody partly sell [YYH] with [93.21] price , amount is 48
+2016-07-30 22:39:35 somebody partly sell [YYH] with [91.88] price , amount is 4
+2016-07-30 22:39:36 somebody totally sell [YYH] with [97.87] price , amount is 68
+2016-07-30 22:39:37 somebody partly sell [YYH] with [95.50] price , amount is 6
+2016-07-30 22:39:38 somebody partly buy [YYH] with [96.89] price , amount is 24
+2016-07-30 22:39:39 somebody totally buy [YYH] with [93.65] price , amount is 9
+2016-07-30 22:39:40 somebody partly buy [YYH] with [98.79] price , amount is 19
+2016-07-30 22:39:41 somebody totally buy [YYH] with [109.60] price , amount is 25
+2016-07-30 22:39:42 somebody partly buy [YYH] with [103.36] price , amount is 14
+2016-07-30 22:39:45 somebody totally sell [YYH] with [93.86] price , amount is 67
+2016-07-30 22:39:46 somebody partly sell [YYH] with [91.89] price , amount is 9
+2016-07-30 22:39:48 somebody totally buy [YYH] with [95.92] price , amount is 44
+2016-07-30 22:39:49 somebody totally sell [YYH] with [99.07] price , amount is 65
+2016-07-30 22:39:50 somebody partly buy [YYH] with [96.36] price , amount is 30
+2016-07-30 22:39:52 somebody partly buy [YYH] with [102.32] price , amount is 82
+2016-07-30 22:39:53 somebody partly sell [YYH] with [96.11] price , amount is 6
+2016-07-30 22:39:56 somebody totally buy [YYH] with [108.47] price , amount is 4
+2016-07-30 22:39:57 somebody totally buy [YYH] with [107.53] price , amount is 12
+2016-07-30 22:39:59 somebody partly sell [YYH] with [98.74] price , amount is 18
+2016-07-30 22:40:00 somebody partly buy [YYH] with [105.37] price , amount is 3
+2016-07-30 22:40:01 somebody totally sell [YYH] with [98.69] price , amount is 27
+2016-07-30 22:40:03 somebody partly sell [YYH] with [96.89] price , amount is 42
+2016-07-30 22:40:04 somebody totally sell [YYH] with [95.56] price , amount is 31
+2016-07-30 22:40:05 somebody totally buy [YYH] with [109.59] price , amount is 39
+2016-07-30 22:40:06 somebody partly buy [YYH] with [104.47] price , amount is 14
+2016-07-30 22:40:07 somebody partly sell [YYH] with [90.71] price , amount is 52
+2016-07-30 22:40:08 somebody partly buy [YYH] with [101.09] price , amount is 43
+2016-07-30 22:40:11 somebody partly buy [YYH] with [107.62] price , amount is 41
+2016-07-30 22:40:12 somebody partly sell [YYH] with [99.25] price , amount is 13
+2016-07-30 22:40:13 somebody totally buy [YYH] with [106.80] price , amount is 19
+2016-07-30 22:40:14 somebody totally sell [YYH] with [99.04] price , amount is 15
+2016-07-30 22:40:15 somebody partly sell [YYH] with [97.99] price , amount is 20
+2016-07-30 22:40:20 somebody partly sell [YYH] with [96.05] price , amount is 11
+2016-07-30 22:40:21 somebody partly buy [YYH] with [99.78] price , amount is 31
+2016-07-30 22:40:22 somebody partly buy [YYH] with [101.12] price , amount is 76
+2016-07-30 22:40:23 somebody partly buy [YYH] with [102.84] price , amount is 22
+2016-07-30 22:40:24 somebody totally buy [YYH] with [106.77] price , amount is 18
+2016-07-30 22:40:26 somebody partly sell [YYH] with [101.67] price , amount is 8
+2016-07-30 22:40:27 somebody partly sell [YYH] with [91.71] price , amount is 14
+2016-07-30 22:40:28 somebody partly buy [YYH] with [108.55] price , amount is 40
+2016-07-30 22:40:29 somebody totally sell [YYH] with [96.40] price , amount is 11
+2016-07-30 22:40:33 somebody partly sell [YYH] with [104.50] price , amount is 11
+2016-07-30 22:40:36 somebody totally sell [YYH] with [100.12] price , amount is 40
+2016-07-30 22:40:37 somebody totally sell [YYH] with [94.14] price , amount is 7
+2016-07-30 22:40:38 somebody totally sell [YYH] with [98.55] price , amount is 1
+2016-07-30 22:40:39 somebody partly sell [YYH] with [92.37] price , amount is 19
+2016-07-30 22:40:40 somebody totally buy [YYH] with [108.24] price , amount is 25
+2016-07-30 22:40:41 somebody partly buy [YYH] with [93.31] price , amount is 13
+2016-07-30 22:40:44 somebody totally sell [YYH] with [93.08] price , amount is 40
+2016-07-30 22:40:47 somebody partly sell [YYH] with [99.72] price , amount is 49
+2016-07-30 22:40:51 somebody partly buy [YYH] with [103.68] price , amount is 10
+2016-07-30 22:40:53 somebody partly sell [YYH] with [93.64] price , amount is 47
+2016-07-30 22:40:54 somebody partly sell [YYH] with [98.11] price , amount is 12
+2016-07-30 22:40:57 somebody partly buy [YYH] with [99.46] price , amount is 12
+2016-07-30 22:40:59 somebody partly sell [YYH] with [93.66] price , amount is 32
+2016-07-30 22:41:00 somebody partly buy [YYH] with [104.88] price , amount is 22
+2016-07-30 22:41:01 somebody totally sell [YYH] with [94.22] price , amount is 63
+2016-07-30 22:41:02 somebody totally buy [YYH] with [106.27] price , amount is 39
+2016-07-30 22:41:03 somebody totally sell [YYH] with [99.60] price , amount is 12
+2016-07-30 22:41:04 somebody partly buy [YYH] with [100.58] price , amount is 30
+2016-07-30 22:41:06 somebody partly buy [YYH] with [107.81] price , amount is 38
+2016-07-30 22:41:07 somebody totally sell [YYH] with [98.76] price , amount is 19
+2016-07-30 22:41:08 somebody totally sell [YYH] with [96.61] price , amount is 29
+2016-07-30 22:41:10 somebody totally buy [YYH] with [105.25] price , amount is 9
+2016-07-30 22:41:11 somebody partly sell [YYH] with [103.85] price , amount is 5
+2016-07-30 22:41:14 somebody totally buy [YYH] with [107.55] price , amount is 64
+2016-07-30 22:41:16 somebody partly sell [YYH] with [103.12] price , amount is 2
+2016-07-30 22:41:19 somebody totally sell [YYH] with [92.09] price , amount is 30
+2016-07-30 22:41:21 somebody partly sell [YYH] with [98.54] price , amount is 3
+2016-07-30 22:41:23 somebody partly sell [YYH] with [94.42] price , amount is 2
+2016-07-30 22:41:24 somebody partly sell [YYH] with [92.35] price , amount is 6
+2016-07-30 22:41:25 somebody partly sell [YYH] with [97.69] price , amount is 18
+2016-07-30 22:41:26 somebody totally buy [YYH] with [93.45] price , amount is 46
+2016-07-30 22:41:27 somebody partly buy [YYH] with [93.10] price , amount is 22
+2016-07-30 22:41:28 somebody totally buy [YYH] with [96.16] price , amount is 30
+2016-07-30 22:41:29 somebody partly buy [YYH] with [105.45] price , amount is 41
+2016-07-30 22:41:31 somebody totally sell [YYH] with [97.93] price , amount is 8
+2016-07-30 22:41:34 somebody partly sell [YYH] with [104.55] price , amount is 21
+2016-07-30 22:41:35 somebody totally buy [YYH] with [107.84] price , amount is 56
+2016-07-30 22:41:37 somebody totally buy [YYH] with [105.99] price , amount is 7
+2016-07-30 22:41:38 somebody partly buy [YYH] with [100.84] price , amount is 9
+2016-07-30 22:41:39 somebody totally sell [YYH] with [93.60] price , amount is 33
+2016-07-30 22:41:40 somebody partly buy [YYH] with [105.41] price , amount is 18
+2016-07-30 22:41:41 somebody totally sell [YYH] with [105.38] price , amount is 30
+2016-07-30 22:41:42 somebody totally sell [YYH] with [102.04] price , amount is 12
+2016-07-30 22:41:43 somebody partly sell [YYH] with [94.13] price , amount is 41
+2016-07-30 22:41:44 somebody partly sell [YYH] with [95.19] price , amount is 27
+2016-07-30 22:41:45 somebody totally sell [YYH] with [92.24] price , amount is 3
+2016-07-30 22:41:47 somebody totally buy [YYH] with [100.52] price , amount is 3
+2016-07-30 22:41:50 somebody partly sell [YYH] with [91.56] price , amount is 24
+2016-07-30 22:41:51 somebody partly sell [YYH] with [90.85] price , amount is 6
+2016-07-30 22:41:54 somebody partly sell [YYH] with [90.14] price , amount is 37
+2016-07-30 22:41:55 somebody totally buy [YYH] with [104.09] price , amount is 7
+2016-07-30 22:41:57 somebody partly sell [YYH] with [92.65] price , amount is 5
+2016-07-30 22:41:58 somebody totally sell [YYH] with [94.47] price , amount is 27
+2016-07-30 22:41:59 somebody partly sell [YYH] with [98.23] price , amount is 2
+2016-07-30 22:42:01 somebody partly sell [YYH] with [95.87] price , amount is 11
+2016-07-30 22:42:03 somebody totally sell [YYH] with [93.42] price , amount is 52
+2016-07-30 22:42:04 somebody totally sell [YYH] with [90.00] price , amount is 13
+2016-07-30 22:42:05 somebody partly buy [YYH] with [109.98] price , amount is 25
+2016-07-30 22:42:06 somebody totally sell [YYH] with [98.15] price , amount is 8
+2016-07-30 22:42:07 somebody partly sell [YYH] with [95.91] price , amount is 17
+2016-07-30 22:42:08 somebody partly buy [YYH] with [107.67] price , amount is 62
+2016-07-30 22:42:09 somebody partly buy [YYH] with [105.08] price , amount is 17
+2016-07-30 22:42:10 somebody partly sell [YYH] with [101.87] price , amount is 21
+2016-07-30 22:42:11 somebody totally sell [YYH] with [95.18] price , amount is 42
+2016-07-30 22:42:12 somebody partly buy [YYH] with [100.66] price , amount is 82
+2016-07-30 22:42:14 somebody partly buy [YYH] with [94.78] price , amount is 13
+2016-07-30 22:42:15 somebody partly buy [YYH] with [98.14] price , amount is 19
+2016-07-30 22:42:16 somebody totally sell [YYH] with [104.53] price , amount is 9
+2016-07-30 22:42:18 somebody partly sell [YYH] with [102.96] price , amount is 11
+2016-07-30 22:42:19 somebody totally buy [YYH] with [96.66] price , amount is 36
+2016-07-30 22:42:20 somebody partly sell [YYH] with [92.36] price , amount is 9
+2016-07-30 22:42:21 somebody partly buy [YYH] with [100.08] price , amount is 62
+2016-07-30 22:42:22 somebody totally buy [YYH] with [96.52] price , amount is 3
+2016-07-30 22:42:23 somebody partly buy [YYH] with [107.20] price , amount is 17
+2016-07-30 22:42:24 somebody partly sell [YYH] with [95.94] price , amount is 26
+2016-07-30 22:42:26 somebody partly buy [YYH] with [98.85] price , amount is 39
+2016-07-30 22:42:27 somebody partly sell [YYH] with [98.59] price , amount is 4
+2016-07-30 22:42:30 somebody partly buy [YYH] with [102.11] price , amount is 6
+2016-07-30 22:42:31 somebody totally buy [YYH] with [98.73] price , amount is 55
+2016-07-30 22:42:32 somebody partly buy [YYH] with [102.85] price , amount is 28
+2016-07-30 22:42:33 somebody partly sell [YYH] with [102.49] price , amount is 30
+2016-07-30 22:42:34 somebody partly sell [YYH] with [90.68] price , amount is 6
+2016-07-30 22:42:36 somebody partly sell [YYH] with [96.78] price , amount is 5
+2016-07-30 22:42:37 somebody partly buy [YYH] with [90.71] price , amount is 6
+2016-07-30 22:42:39 somebody totally buy [YYH] with [106.46] price , amount is 7
+2016-07-30 22:42:41 somebody totally buy [YYH] with [107.26] price , amount is 73
+2016-07-30 22:42:42 somebody partly buy [YYH] with [101.49] price , amount is 12
+2016-07-30 22:42:48 somebody totally buy [YYH] with [102.95] price , amount is 11
+2016-07-30 22:42:50 somebody partly sell [YYH] with [94.27] price , amount is 23
+2016-07-30 22:42:54 somebody totally sell [YYH] with [99.01] price , amount is 78
+2016-07-30 22:42:55 somebody totally buy [YYH] with [105.01] price , amount is 21
+2016-07-30 22:42:56 somebody partly buy [YYH] with [102.28] price , amount is 4
+2016-07-30 22:42:57 somebody totally sell [YYH] with [93.49] price , amount is 17
+2016-07-30 22:42:58 somebody totally sell [YYH] with [102.04] price , amount is 44
+2016-07-30 22:42:59 somebody partly sell [YYH] with [95.94] price , amount is 19
+2016-07-30 22:43:00 somebody partly buy [YYH] with [108.53] price , amount is 67
+2016-07-30 22:43:02 somebody partly buy [YYH] with [105.52] price , amount is 25
+2016-07-30 22:43:03 somebody totally buy [YYH] with [106.34] price , amount is 1
+2016-07-30 22:43:04 somebody partly buy [YYH] with [104.70] price , amount is 93
+2016-07-30 22:43:05 somebody partly sell [YYH] with [102.53] price , amount is 6
+2016-07-30 22:43:06 somebody partly sell [YYH] with [92.28] price , amount is 49
+2016-07-30 22:43:07 somebody partly sell [YYH] with [100.60] price , amount is 7
+2016-07-30 22:43:08 somebody partly buy [YYH] with [106.48] price , amount is 30
+2016-07-30 22:43:10 somebody totally sell [YYH] with [98.28] price , amount is 25
+2016-07-30 22:43:11 somebody totally buy [YYH] with [107.75] price , amount is 29
+2016-07-30 22:43:12 somebody totally buy [YYH] with [105.74] price , amount is 39
+2016-07-30 22:43:13 somebody partly sell [YYH] with [97.70] price , amount is 28
+2016-07-30 22:43:15 somebody partly buy [YYH] with [105.09] price , amount is 6
+2016-07-30 22:43:16 somebody partly sell [YYH] with [98.80] price , amount is 19
+2016-07-30 22:43:17 somebody partly sell [YYH] with [98.46] price , amount is 4
+2016-07-30 22:43:18 somebody totally sell [YYH] with [95.33] price , amount is 8
+2016-07-30 22:43:19 somebody partly sell [YYH] with [90.89] price , amount is 33
+2016-07-30 22:43:20 somebody totally buy [YYH] with [107.81] price , amount is 24
+2016-07-30 22:43:23 somebody partly buy [YYH] with [99.26] price , amount is 21
+2016-07-30 22:43:24 somebody partly sell [YYH] with [94.17] price , amount is 7
+2016-07-30 22:43:25 somebody partly buy [YYH] with [103.95] price , amount is 33
+2016-07-30 22:43:26 somebody totally buy [YYH] with [100.53] price , amount is 37
+2016-07-30 22:43:27 somebody partly sell [YYH] with [103.31] price , amount is 3
+2016-07-30 22:43:30 somebody partly buy [YYH] with [108.29] price , amount is 24
+2016-07-30 22:43:31 somebody partly sell [YYH] with [92.01] price , amount is 39
+2016-07-30 22:43:33 somebody partly buy [YYH] with [94.10] price , amount is 22
+2016-07-30 22:43:34 somebody totally sell [YYH] with [90.38] price , amount is 58
+2016-07-30 22:43:35 somebody totally buy [YYH] with [100.21] price , amount is 10
+2016-07-30 22:43:37 somebody totally buy [YYH] with [107.92] price , amount is 21
+2016-07-30 22:43:38 somebody partly buy [YYH] with [99.28] price , amount is 22
+2016-07-30 22:43:40 somebody totally buy [YYH] with [104.70] price , amount is 13
+2016-07-30 22:43:43 somebody partly buy [YYH] with [108.32] price , amount is 1
+2016-07-30 22:43:45 somebody totally sell [YYH] with [94.21] price , amount is 39
+2016-07-30 22:43:46 somebody totally buy [YYH] with [108.00] price , amount is 18
+2016-07-30 22:43:48 somebody totally buy [YYH] with [106.61] price , amount is 21
+2016-07-30 22:43:50 somebody totally sell [YYH] with [104.80] price , amount is 3
+2016-07-30 22:43:51 somebody totally sell [YYH] with [92.47] price , amount is 1
+2016-07-30 22:43:52 somebody totally buy [YYH] with [109.76] price , amount is 26
+2016-07-30 22:43:53 somebody partly sell [YYH] with [105.90] price , amount is 28
+2016-07-30 22:43:54 somebody partly buy [YYH] with [106.30] price , amount is 23
+2016-07-30 22:43:55 somebody partly sell [YYH] with [94.87] price , amount is 34
+2016-07-30 22:43:56 somebody partly buy [YYH] with [102.55] price , amount is 33
+2016-07-30 22:43:58 somebody partly sell [YYH] with [95.56] price , amount is 33
+2016-07-30 22:44:00 somebody totally buy [YYH] with [107.70] price , amount is 14
+2016-07-30 22:44:03 somebody totally buy [YYH] with [101.79] price , amount is 9
+2016-07-30 22:44:04 somebody partly buy [YYH] with [106.63] price , amount is 41
+2016-07-30 22:44:05 somebody totally sell [YYH] with [94.57] price , amount is 12
+2016-07-30 22:44:07 somebody totally buy [YYH] with [104.54] price , amount is 32
+2016-07-30 22:44:08 somebody partly sell [YYH] with [100.19] price , amount is 24
+2016-07-30 22:44:09 somebody partly sell [YYH] with [93.24] price , amount is 12
+2016-07-30 22:44:10 somebody totally sell [YYH] with [98.08] price , amount is 86
+2016-07-30 22:44:11 somebody totally buy [YYH] with [108.11] price , amount is 4
+2016-07-30 22:44:12 somebody partly buy [YYH] with [94.28] price , amount is 19
+2016-07-30 22:44:13 somebody partly buy [YYH] with [106.23] price , amount is 54
+2016-07-30 22:44:14 somebody partly buy [YYH] with [104.75] price , amount is 26
+2016-07-30 22:44:15 somebody totally buy [YYH] with [101.64] price , amount is 26
+2016-07-30 22:44:16 somebody partly sell [YYH] with [105.77] price , amount is 13
+2016-07-30 22:44:17 somebody partly sell [YYH] with [104.31] price , amount is 39
+2016-07-30 22:44:18 somebody partly buy [YYH] with [107.00] price , amount is 64
+2016-07-30 22:44:19 somebody partly sell [YYH] with [101.57] price , amount is 25
+2016-07-30 22:44:21 somebody partly sell [YYH] with [92.43] price , amount is 31
+2016-07-30 22:44:23 somebody partly buy [YYH] with [107.58] price , amount is 7
+2016-07-30 22:44:24 somebody partly buy [YYH] with [101.41] price , amount is 12
+2016-07-30 22:44:25 somebody partly buy [YYH] with [105.33] price , amount is 3
+2016-07-30 22:44:26 somebody totally sell [YYH] with [96.68] price , amount is 47
+2016-07-30 22:44:28 somebody partly buy [YYH] with [106.71] price , amount is 22
+2016-07-30 22:44:29 somebody totally buy [YYH] with [109.20] price , amount is 19
+2016-07-30 22:44:30 somebody partly sell [YYH] with [107.08] price , amount is 44
+2016-07-30 22:44:32 somebody totally sell [YYH] with [94.52] price , amount is 15
+2016-07-30 22:44:35 somebody partly sell [YYH] with [91.41] price , amount is 24
+2016-07-30 22:44:36 somebody totally buy [YYH] with [94.90] price , amount is 26
+2016-07-30 22:44:37 somebody partly buy [YYH] with [92.81] price , amount is 17
+2016-07-30 22:44:39 somebody partly sell [YYH] with [102.96] price , amount is 14
+2016-07-30 22:44:40 somebody partly sell [YYH] with [92.02] price , amount is 24
+2016-07-30 22:44:41 somebody totally buy [YYH] with [109.81] price , amount is 9
+2016-07-30 22:44:43 somebody partly buy [YYH] with [107.16] price , amount is 24
+2016-07-30 22:44:45 somebody partly buy [YYH] with [104.24] price , amount is 51
+2016-07-30 22:44:46 somebody totally sell [YYH] with [92.75] price , amount is 16
+2016-07-30 22:44:47 somebody totally buy [YYH] with [103.37] price , amount is 21
+2016-07-30 22:44:49 somebody partly buy [YYH] with [103.82] price , amount is 1
+2016-07-30 22:44:50 somebody partly sell [YYH] with [90.17] price , amount is 25
+2016-07-30 22:44:51 somebody partly sell [YYH] with [99.31] price , amount is 28
+2016-07-30 22:44:52 somebody partly sell [YYH] with [90.81] price , amount is 43
+2016-07-30 22:44:53 somebody totally buy [YYH] with [102.13] price , amount is 45
+2016-07-30 22:44:57 somebody partly buy [YYH] with [91.28] price , amount is 15
+2016-07-30 22:44:58 somebody totally sell [YYH] with [98.75] price , amount is 11
+2016-07-30 22:45:00 somebody partly buy [YYH] with [101.06] price , amount is 2
+2016-07-30 22:45:01 somebody totally buy [YYH] with [99.88] price , amount is 15
+2016-07-30 22:45:02 somebody partly sell [YYH] with [93.06] price , amount is 34
+2016-07-30 22:45:03 somebody partly buy [YYH] with [101.77] price , amount is 9
+2016-07-30 22:45:04 somebody partly sell [YYH] with [99.89] price , amount is 7
+2016-07-30 22:45:07 somebody partly buy [YYH] with [105.18] price , amount is 33
+2016-07-30 22:45:08 somebody totally sell [YYH] with [97.97] price , amount is 5
+2016-07-30 22:45:09 somebody totally buy [YYH] with [100.05] price , amount is 23
+2016-07-30 22:45:13 somebody partly buy [YYH] with [102.72] price , amount is 49
+2016-07-30 22:45:14 somebody partly buy [YYH] with [105.59] price , amount is 1
+2016-07-30 22:45:15 somebody partly sell [YYH] with [101.75] price , amount is 17
+2016-07-30 22:45:18 somebody totally sell [YYH] with [104.96] price , amount is 16
+2016-07-30 22:45:19 somebody partly buy [YYH] with [103.37] price , amount is 5
+2016-07-30 22:45:20 somebody totally buy [YYH] with [108.94] price , amount is 9
+2016-07-30 22:45:21 somebody partly sell [YYH] with [99.32] price , amount is 11
+2016-07-30 22:45:23 somebody partly buy [YYH] with [101.52] price , amount is 45
+2016-07-30 22:45:24 somebody totally sell [YYH] with [90.73] price , amount is 50
+2016-07-30 22:45:28 somebody totally sell [YYH] with [99.54] price , amount is 29
+2016-07-30 22:45:31 somebody partly sell [YYH] with [95.73] price , amount is 15
+2016-07-30 22:45:32 somebody partly sell [YYH] with [92.73] price , amount is 29
+2016-07-30 22:45:33 somebody totally buy [YYH] with [102.92] price , amount is 51
+2016-07-30 22:45:34 somebody totally buy [YYH] with [99.53] price , amount is 1
+2016-07-30 22:45:36 somebody partly buy [YYH] with [102.51] price , amount is 3
+2016-07-30 22:45:37 somebody partly sell [YYH] with [99.37] price , amount is 4
+2016-07-30 22:45:38 somebody partly buy [YYH] with [108.33] price , amount is 33
+2016-07-30 22:45:40 somebody totally buy [YYH] with [107.73] price , amount is 39
+2016-07-30 22:45:41 somebody partly buy [YYH] with [102.77] price , amount is 22
+2016-07-30 22:45:42 somebody partly sell [YYH] with [105.20] price , amount is 19
+2016-07-30 22:45:43 somebody totally sell [YYH] with [97.05] price , amount is 14
+2016-07-30 22:45:44 somebody partly sell [YYH] with [94.45] price , amount is 31
+2016-07-30 22:45:45 somebody totally buy [YYH] with [96.95] price , amount is 34
+2016-07-30 22:45:47 somebody partly sell [YYH] with [99.58] price , amount is 53
+2016-07-30 22:45:49 somebody totally sell [YYH] with [98.03] price , amount is 13
+2016-07-30 22:45:51 somebody partly sell [YYH] with [98.29] price , amount is 26
+2016-07-30 22:45:52 somebody partly buy [YYH] with [102.67] price , amount is 2
+2016-07-30 22:45:53 somebody partly sell [YYH] with [94.84] price , amount is 33
+2016-07-30 22:45:55 somebody totally sell [YYH] with [91.79] price , amount is 71
+2016-07-30 22:45:56 somebody partly sell [YYH] with [93.90] price , amount is 10
+2016-07-30 22:45:57 somebody partly sell [YYH] with [96.68] price , amount is 3
+2016-07-30 22:45:58 somebody partly sell [YYH] with [96.28] price , amount is 54
+2016-07-30 22:45:59 somebody partly buy [YYH] with [105.46] price , amount is 66
+2016-07-30 22:46:01 somebody partly sell [YYH] with [102.48] price , amount is 5
+2016-07-30 22:46:03 somebody totally sell [YYH] with [97.84] price , amount is 2
+2016-07-30 22:46:04 somebody partly buy [YYH] with [107.37] price , amount is 53
+2016-07-30 22:46:05 somebody totally sell [YYH] with [106.89] price , amount is 13
+2016-07-30 22:46:06 somebody partly buy [YYH] with [97.76] price , amount is 11
+2016-07-30 22:46:07 somebody partly sell [YYH] with [106.11] price , amount is 13
+2016-07-30 22:46:08 somebody partly buy [YYH] with [105.40] price , amount is 19
+2016-07-30 22:46:09 somebody totally sell [YYH] with [96.79] price , amount is 9
+2016-07-30 22:46:11 somebody partly sell [YYH] with [97.41] price , amount is 30
+2016-07-30 22:46:13 somebody totally sell [YYH] with [98.51] price , amount is 5
+2016-07-30 22:46:20 somebody partly sell [YYH] with [97.94] price , amount is 14
+2016-07-30 22:46:22 somebody totally sell [YYH] with [97.92] price , amount is 10
+2016-07-30 22:46:23 somebody partly sell [YYH] with [95.31] price , amount is 40
+2016-07-30 22:46:24 somebody partly sell [YYH] with [91.00] price , amount is 54
+2016-07-30 22:46:25 somebody totally sell [YYH] with [95.02] price , amount is 14
+2016-07-30 22:46:26 somebody partly buy [YYH] with [101.61] price , amount is 44
+2016-07-30 22:46:28 somebody partly buy [YYH] with [96.13] price , amount is 3
+2016-07-30 22:46:30 somebody totally buy [YYH] with [101.90] price , amount is 1
+2016-07-30 22:46:33 somebody totally sell [YYH] with [100.40] price , amount is 9
+2016-07-30 22:46:34 somebody partly buy [YYH] with [104.06] price , amount is 41
+2016-07-30 22:46:35 somebody totally buy [YYH] with [102.49] price , amount is 60
+2016-07-30 22:46:37 somebody partly sell [YYH] with [92.69] price , amount is 28
+2016-07-30 22:46:38 somebody totally buy [YYH] with [96.80] price , amount is 29
+2016-07-30 22:46:41 somebody partly buy [YYH] with [95.60] price , amount is 21
+2016-07-30 22:46:42 somebody partly buy [YYH] with [102.56] price , amount is 22
+2016-07-30 22:46:43 somebody totally sell [YYH] with [96.82] price , amount is 3
+2016-07-30 22:46:46 somebody partly buy [YYH] with [108.04] price , amount is 25
+2016-07-30 22:46:47 somebody partly sell [YYH] with [92.09] price , amount is 27
+2016-07-30 22:46:48 somebody totally sell [YYH] with [99.93] price , amount is 10
+2016-07-30 22:46:49 somebody totally buy [YYH] with [105.30] price , amount is 53
+2016-07-30 22:46:50 somebody totally buy [YYH] with [101.02] price , amount is 2
