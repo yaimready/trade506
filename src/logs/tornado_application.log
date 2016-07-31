@@ -1,0 +1,60 @@
+2016-07-31 09:34:09 Uncaught exception GET / (127.0.0.1)
+HTTPServerRequest(protocol='http', host='localhost:5000', method='GET', uri='/', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': 'localhost:5000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17', 'Connection': 'keep-alive', 'If-None-Match': '"c7bdc760923c5689a105350af81c42eb770326b6"'})
+Traceback (most recent call last):
+  File "/Users/simple/Documents/gitwork/trade506/src/tornado/web.py", line 1443, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+  File "/Users/simple/Documents/gitwork/trade506/src/mino.py", line 17, in __call__
+    self._func(req,*self._args)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 17, in get
+    self.show_objects(req)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 36, in show_objects
+    req.write('%s - %d<br/>'%(obj['name'],factory.price2f(obj['score'])))
+NameError: global name 'factory' is not defined
+2016-07-31 09:34:28 Uncaught exception GET / (127.0.0.1)
+HTTPServerRequest(protocol='http', host='localhost:5000', method='GET', uri='/', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': 'localhost:5000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0'})
+Traceback (most recent call last):
+  File "/Users/simple/Documents/gitwork/trade506/src/tornado/web.py", line 1443, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+  File "/Users/simple/Documents/gitwork/trade506/src/mino.py", line 17, in __call__
+    self._func(req,*self._args)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 17, in get
+    self.show_objects(req)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 36, in show_objects
+    req.write('%s - %d<br/>'%(obj['name'],factory.price2f(obj['score'])))
+NameError: global name 'factory' is not defined
+2016-07-31 09:34:29 Uncaught exception GET / (127.0.0.1)
+HTTPServerRequest(protocol='http', host='localhost:5000', method='GET', uri='/', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': 'localhost:5000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0'})
+Traceback (most recent call last):
+  File "/Users/simple/Documents/gitwork/trade506/src/tornado/web.py", line 1443, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+  File "/Users/simple/Documents/gitwork/trade506/src/mino.py", line 17, in __call__
+    self._func(req,*self._args)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 17, in get
+    self.show_objects(req)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 36, in show_objects
+    req.write('%s - %d<br/>'%(obj['name'],factory.price2f(obj['score'])))
+NameError: global name 'factory' is not defined
+2016-07-31 09:34:43 Uncaught exception GET / (127.0.0.1)
+HTTPServerRequest(protocol='http', host='localhost:5000', method='GET', uri='/', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': 'localhost:5000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0'})
+Traceback (most recent call last):
+  File "/Users/simple/Documents/gitwork/trade506/src/tornado/web.py", line 1443, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+  File "/Users/simple/Documents/gitwork/trade506/src/mino.py", line 17, in __call__
+    self._func(req,*self._args)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 17, in get
+    self.show_objects(req)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 36, in show_objects
+    req.write('%s - %d<br/>'%(obj['name'],price2f(obj['score'])))
+TypeError: %d format: a number is required, not str
+2016-07-31 09:34:43 Uncaught exception GET / (127.0.0.1)
+HTTPServerRequest(protocol='http', host='localhost:5000', method='GET', uri='/', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': 'localhost:5000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0'})
+Traceback (most recent call last):
+  File "/Users/simple/Documents/gitwork/trade506/src/tornado/web.py", line 1443, in _execute
+    result = method(*self.path_args, **self.path_kwargs)
+  File "/Users/simple/Documents/gitwork/trade506/src/mino.py", line 17, in __call__
+    self._func(req,*self._args)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 17, in get
+    self.show_objects(req)
+  File "/Users/simple/Documents/gitwork/trade506/src/demo/views.py", line 36, in show_objects
+    req.write('%s - %d<br/>'%(obj['name'],price2f(obj['score'])))
+TypeError: %d format: a number is required, not str

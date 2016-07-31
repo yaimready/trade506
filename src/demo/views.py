@@ -2,7 +2,7 @@
 
 import traceback
 
-from .factory import TradeFactory
+from .factory import TradeFactory,price2f
 
 class TradeHandler(object):
 
@@ -33,7 +33,7 @@ class TradeHandler(object):
     def show_objects(self,req):
         objects=self._factory.get_objects()
         for obj in objects:
-            req.write('%s - %d<br/>'%(obj['name'],obj['score']))
+            req.write('%s - %s<br/>'%(obj['name'],price2f(obj['score'])))
 
     def make_trade(self,req):
         object_name=req.get_argument('symbol','')

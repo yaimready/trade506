@@ -45,7 +45,7 @@ import traceback
 import logging
 import sqlite3
 
-def _f(integer):
+def price2f(integer):
     integer_part=integer/100
     float_part=integer%100
     float_fill='0' if float_part<10 else ''
@@ -85,7 +85,7 @@ class TradeFactory(object):
         cursor=self._db.execute('select max_score,min_score from trade_object where name=?',(name,))
         max_score,min_score=cursor.fetchone()
         cursor.close()
-        return (max_score-price<0.001 or price<max_score) and (price-min_score<0.001 or price>=min_score)
+        return price<max_score and price>=min_score
 
     def get_score(self,name):
         cursor=self._db.execute('select score from trade_object where name=?',(name,))
@@ -97,33 +97,35 @@ class TradeFactory(object):
         self._db.execute('update trade_object set score=? where name=?',(val,name))
 
     def _get_cheapest_sell(self,name,buy_price):
-        sql='select id,price,amount-changed_amount from trade_order where complete=0 and type=? and price<=? order by price asc limit 0,1'
+        sql='select id,price,amount-changed_amount,amount from trade_order where complete=0 and type=? and price<=? order by price asc limit 0,1'
         # 选取价格比你出价尽可能低且正在卖出的订单
         cursor=self._db.execute(sql,('sell',buy_price))
         row=cursor.fetchone()
         if row is None:
             return None
         else:
-            id,price,amount=row
+            id,price,amount,total_amount=row
             return {
                 'id':id,
                 'price':price,
-                'amount':amount
+                'amount':amount,
+                'total_amount':total_amount
             }
 
     def _get_highest_buy(self,name,sell_price):
-        sql='select id,price,amount-changed_amount from trade_order where complete=0 and type=? and price>=? order by price desc limit 0,1'
+        sql='select id,price,amount-changed_amount,amount from trade_order where complete=0 and type=? and price>=? order by price desc limit 0,1'
         # 选取价格比你出价尽可能高且正在买入的订单
         cursor=self._db.execute(sql,('buy',sell_price))
         row=cursor.fetchone()
         if row is None:
             return None
         else:
-            id,price,amount=row
+            id,price,amount,total_amount=row
             return {
                 'id':id,
                 'price':price,
-                'amount':amount
+                'amount':amount,
+                'total_amount':total_amount
             }
 
     def _update_order_amount(self,order_id,add_amount):
@@ -138,7 +140,7 @@ class TradeFactory(object):
             new_score=sell_price
         else:
             new_score=score
-        print('make_trade --> buy=%s,sell=%s,score=%s,new_score=%s'%(_f(buy_price),_f(sell_price),_f(score),_f(new_score)))
+        print('make_trade --> buy=%s,sell=%s,score=%s,new_score=%s'%(price2f(buy_price),price2f(sell_price),price2f(score),price2f(new_score)))
         if order_from:
             self._update_order_amount(order_from,amount)
         return new_score
@@ -156,14 +158,13 @@ class TradeFactory(object):
         return order_id
 
     def _log_trade(self,price,amount):
-        self._trade_logger.info('price is %s,amount is %d'%(_f(price),amount))
+        self._trade_logger.info('price is %s,amount is %d'%(price2f(price),amount))
 
     def _log_order(self,order_id,amount,status):
         cursor=self._db.execute('select object_name,type,price from trade_order where id=?',(order_id,))
         row=cursor.fetchone()
         cursor.close()
         if row is None:
-            print('------------',order_id)
             return
         name,trade_type,price=row
         verb_table={
@@ -172,7 +173,7 @@ class TradeFactory(object):
             'full_deal':'totally',
             'full_cancel':'totally cancel'
         }
-        self._order_logger.info('somebody %s %s [%s] with [%s] price , amount is %d'%(verb_table[status],trade_type,name,_f(price),amount))
+        self._order_logger.info('somebody %s %s [%s] with [%s] price , amount is %d'%(verb_table[status],trade_type,name,price2f(price),amount))
 
     def _buy(self,name,amount,buy_price=None):
         buy_amount=amount
@@ -189,11 +190,15 @@ class TradeFactory(object):
         if buy_amount<=sell['amount']:
             # 成交后，得出新的成交价
             score=self._make_trade(sell['id'],buy_amount,prices)
+            status='part_deal' if sell['total_amount']!=buy_amount else 'full_deal'
+            self._log_order(sell['id'],buy_amount,status)
             self._log_trade(score,buy_amount)
             buy_amount=0
         else:
             # 买入的超过卖出的数量，全部买入
             score=self._make_trade(sell['id'],sell['amount'],prices)
+            status='part_deal' if sell['total_amount']!=sell['amount'] else 'full_deal'
+            self._log_order(sell['id'],sell['amount'],status)
             self._log_trade(score,sell['amount'])
             buy_amount=buy_amount-sell['amount']
         # 保存最后的成交价
@@ -203,7 +208,7 @@ class TradeFactory(object):
 
     def buy_market(self,name,amount):
         score,buy_amount=self._buy(name,amount,None)
-        order_id=self._create_order(name,'buy_market',amount-buy_amount,score,1)
+        order_id=self._create_order(name,'buy_market',amount-buy_amount,score,1,buy_amount)
         # 记录被撤销的剩余交易
         if buy_amount:
             self._log_order(order_id,amount-buy_amount,'part_deal')
@@ -223,11 +228,15 @@ class TradeFactory(object):
         if sell_amount<=buy['amount']:
             # 成交后，得出新的成交价
             score=self._make_trade(buy['id'],sell_amount,prices)
+            status='part_deal' if buy['total_amount']!=sell_amount else 'full_deal'
+            self._log_order(buy['id'],sell_amount,status)
             self._log_trade(score,sell_amount)
             sell_amount=0
         else:
             # 卖出的超过买入的数量，全部卖出
             score=self._make_trade(buy['id'],buy['amount'],prices)
+            status='part_deal' if buy['total_amount']!=buy['amount'] else 'full_deal'
+            self._log_order(buy['id'],buy['amount'],status)
             self._log_trade(score,buy['amount'])
             sell_amount=sell_amount-buy['amount']
         # 保存最后的成交价
