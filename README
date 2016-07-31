@@ -4,7 +4,7 @@ README
 
 1、服务端程序启动命令 python app.py
 2、服务端默认运行在5000端口，本机访问 http://localhost:5000/
-3、测试程序存储在 tool/make_deal.py ， 使用随机测试
+3、测试程序存储在 tools/make_deal.py ， 使用随机数据进行测试
 
 --- 服务端相关
 
